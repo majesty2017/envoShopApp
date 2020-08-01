@@ -1,0 +1,7 @@
+{
+  "name": "envoShopApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
